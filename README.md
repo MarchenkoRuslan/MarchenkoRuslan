@@ -29,16 +29,13 @@ I'm a dedicated Software Designer with a strong background in Python programming
 
 ## 📫 How to reach me:
 
-- 📧 Email: [wolkoff07@gmail.com](mailto:wolkoff07@gmail.com)
-- 🔗 LinkedIn: [Ruslan Marchenko](https://www.linkedin.com/in/ruslanmarchenko/)
-- 💻 GitHub: [@MarchenkoRuslan](https://github.com/MarchenkoRuslan)
-- 💻 Codewars: [@MarchenkoRuslan](https://www.codewars.com/users/Marchenko%20Ruslan)
-- 💻 Hackerrank: [@MarchenkoRuslan](https://www.hackerrank.com/profile/wolkoff07)
+Check out my [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/) for professional engagements and my [GitHub](https://github.com/MarchenkoRuslan) for projects and code snippets.
 
 I'm always open to discussing new projects or opportunities in Python development and data science. Feel free to reach out!
 
 
 ## 🏆 Showcase
 
-- **Portfolio**: Check out my [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/) for professional engagements and my [GitHub](https://github.com/MarchenkoRuslan) for projects and code snippets.
+- 💻 Codewars: [@MarchenkoRuslan](https://www.codewars.com/users/Marchenko%20Ruslan)
+- 💻 Hackerrank: [@MarchenkoRuslan](https://www.hackerrank.com/profile/wolkoff07)
 
