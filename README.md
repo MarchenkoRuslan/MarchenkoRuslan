@@ -1,4 +1,4 @@
-# Hi there, I'm Ruslan! 👋
+# Hi there, I'm Ruslan! 👋 ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NHA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
 
 I'm a dedicated Software Designer with a strong background in Python programming, passionate about data analytics and machine learning. Currently enhancing my skills in Data Science at Turing College, I'm on a mission to apply my analytical capabilities to solve real-world problems.
 
