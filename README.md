@@ -13,7 +13,7 @@ I'm a dedicated software designer with a strong background in Python programming
 
 - **Python Developer @ Orion Innovation (February 2021 - January 2024)**: As a pivotal development team member, I led Python programming efforts focused on back-end development. My role involved extensive UI/API testing, problem-solving for outsourcing projects, and contributing to our team's success through robust software solutions.
 
-- **Python Developer & Data Science Student @ Turing College (May 2023 - Present)**: Currently enhancing my expertise in data analytics and machine learning, I am deeply involved in a rigorous Master's program. This experience sharpened my data manipulation skills, statistical analysis, and application of machine learning techniques to practical challenges. Turing College has provided me with a platform to learn theoretical aspects and apply these concepts in real-world scenarios, preparing me to drive data-driven decision-making processes.
+- **Python Developer & Data Science Student @ Turing College (May 2023 - December 2024)**: Currently enhancing my expertise in data analytics and machine learning, I am deeply involved in a rigorous Master's program. This experience sharpened my data manipulation skills, statistical analysis, and application of machine learning techniques to practical challenges. Turing College has provided me with a platform to learn theoretical aspects and apply these concepts in real-world scenarios, preparing me to drive data-driven decision-making processes.
 
 ## 🛠 Skills
 
