@@ -25,7 +25,25 @@ I'm a dedicated software designer with a strong background in Python programming
 
 ## 📚 Education
 
-- **Master's in Data Science**, Turing College _(2023 - 2024)_: Engaging in a comprehensive study of data science, where I am honing my abilities in data manipulation, statistical analysis, and predictive modeling. This program is about academic learning and applying these insights to tackle real-world problems effectively.
+### **Data Science Certification**, Turing College _(2023 - 2024)_
+Engaging in a comprehensive study of data science, honing my abilities in data manipulation, statistical analysis, and predictive modeling. The program emphasizes not just theoretical knowledge but also hands-on experience with real-world datasets, preparing me to solve complex business challenges.  
+- Engaging in a comprehensive study of data science, honing skills in data manipulation, statistical analysis, and predictive modeling.  
+- Completed 800+ hours of hands-on training, applying machine learning and data analytics to real-world problems.  
+- Delivered capstone projects such as **Credit Risk Prediction** and **Train Accelerometry Analysis**, utilizing predictive modeling, data wrangling, and advanced machine learning techniques.  
+
+### **Web Development Certification**, IT Academy _(2020)_
+Completed an intensive program covering core software development and data science concepts.  
+- Immersed in a rigorous web development curriculum, with a strong focus on **backend technologies**.  
+- Developed expertise in **Python, PostgreSQL, RESTful APIs**, and scalable backend architectures.  
+- Built full-stack web applications, emphasizing **database optimization, server-side logic, and API integration**.  
+- Gained practical experience in **software development workflows**, version control, and testing.  
+
+### **Bachelor of Science in Networks & Info Communications**, Belarusian State University of Informatics and Radioelectronics _(2018)_
+Developed a strong foundation in software engineering, algorithms, and data structures, which later evolved into a focus on data science.  
+- Studied **network technologies, system optimization, and algorithm design**, laying the groundwork for a career in data and software engineering.  
+- Gained hands-on experience with **network infrastructures, data security, and distributed systems**.  
+- Developed a strong analytical mindset, applying engineering principles to **problem-solving and technical decision-making**.  
+
 
 ## 📫 How to reach me:
 
