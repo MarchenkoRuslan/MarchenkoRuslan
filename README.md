@@ -25,7 +25,7 @@ I'm a dedicated software designer with a strong background in Python programming
 
 ## 📚 Education
 
-### **Data Science Certification**, Turing College _(2023 - 2024)_
+### **Data Science Certification**, Turing College _(2024)_
 Engaging in a comprehensive study of data science, honing my abilities in data manipulation, statistical analysis, and predictive modeling. The program emphasizes not just theoretical knowledge but also hands-on experience with real-world datasets, preparing me to solve complex business challenges.  
 - Engaging in a comprehensive study of data science, honing skills in data manipulation, statistical analysis, and predictive modeling.  
 - Completed 800+ hours of hands-on training, applying machine learning and data analytics to real-world problems.  
