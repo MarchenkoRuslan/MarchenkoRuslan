@@ -18,9 +18,9 @@ I'm a dedicated software designer with a strong background in Python programming
 ## 🛠 Skills
 
 - **Languages**: Python, SQL
-- **Frameworks**: Django, Flask, Selenium
+- **Frameworks**: FastAPI, Selenium
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, StatsModels, CV2
-- **Tools**: PyCharm, VSCode, DataSpell, Jupyter Notebook
+- **Tools**: Docker, VSCode, Jupyter Notebook
 - **Others**: GIT, HTML5, CSS, Bootstrap, JavaScript (Base level)
 
 ## 📚 Education
@@ -33,7 +33,7 @@ Engaging in a comprehensive study of data science, honing my abilities in data m
 
 ### **Web Development Certification**, IT Academy _(2020)_
 Completed an intensive program covering core software development and data science concepts.  
-- Immersed in a rigorous web development curriculum, with a strong focus on **backend technologies**.  
+- Immersed in a rigorous web development curriculum, focusing strongly on **backend technologies**.  
 - Developed expertise in **Python, PostgreSQL, RESTful APIs**, and scalable backend architectures.  
 - Built full-stack web applications, emphasizing **database optimization, server-side logic, and API integration**.  
 - Gained practical experience in **software development workflows**, version control, and testing.  
@@ -49,7 +49,7 @@ Developed a strong foundation in software engineering, algorithms, and data stru
 
 Check out my [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/) for professional engagements and my [GitHub](https://github.com/MarchenkoRuslan) for projects and code snippets.
 
-I'm always open to discussing new projects or opportunities in Python development and data science. Feel free to reach out!
+I'm always open to discussing new projects or opportunities in Python development and data science. Please feel free to contact me!
 
 
 ## 🏆 Showcase
