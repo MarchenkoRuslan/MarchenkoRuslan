@@ -1,59 +1,77 @@
-# Hi there, I'm Ruslan! 👋 ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NHA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
+# Hi there, I'm Ruslan 👋  
+![Coding animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NDA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
 
-I'm a dedicated software designer with a strong background in Python programming, and I'm passionate about data analytics and machine learning. Currently enhancing my skills in Data Science at Turing College, I'm on a mission to apply my analytical capabilities to solve real-world problems.
+I'm an **AI Engineer at Nasdaq**, building enterprise AI solutions with a strong focus on **agentic systems, LLM-powered platforms, and cloud-native architectures**.  
+My background combines **Python backend engineering**, **applied machine learning**, and **production-grade AI systems** designed for real-world enterprise use.
+
+---
 
 ## 🚀 About Me
 
-- 🐍 Python enthusiast with a flair for back-end development and solving complex challenges.
-- 📊 Pursuing a Master's in Data Science to deepen my understanding of data manipulation, statistical analysis, and predictive modeling.
-- 🌐 Experienced in Django and Flask frameworks, making web applications more interactive and user-friendly.
-- 📚 Lifelong learner, constantly updating myself with the latest in tech via platforms like Habr.com and YouTube.
+- 🤖 **AI Engineer @ Nasdaq**, working on an enterprise agentic AI platform that improves internal knowledge access and operational efficiency.
+- 🧠 Hands-on experience with **LLMs, Retrieval-Augmented Generation (RAG)**, and enterprise integrations such as **Microsoft OneDrive** and **GitLab**.
+- 🐍 Strong background in **Python backend development**, building scalable services with **FastAPI**.
+- ☁️ Experienced in deploying and operating **production-ready AI systems on AWS**, with a focus on reliability, scalability, and compliance.
+- 📚 Continuous learner with a strong interest in **applied AI, agentic systems, and practical LLM solutions**.
+
+---
 
 ## 💼 Experience
 
-- **Python Developer @ Orion Innovation (February 2021 - January 2024)**: As a pivotal development team member, I led Python programming efforts focused on back-end development. My role involved extensive UI/API testing, problem-solving for outsourcing projects, and contributing to our team's success through robust software solutions.
+### **AI Engineer @ Nasdaq** _(Mar 2025 – Present)_
+- Design and deliver components of an **enterprise-grade agentic AI platform** used by internal teams.
+- Build **LLM-powered backend services** using Python and FastAPI to support compliant, production-ready AI agents.
+- Implement **Retrieval-Augmented Generation (RAG)** pipelines to ground AI responses in internal data sources and improve trust and adoption.
+- Develop AI agents and enterprise connectors for **Microsoft OneDrive** and **GitLab**, automating document retrieval and contextual task execution.
+- Collaborate within a **30-person cross-functional team** to translate business needs into deployable AI capabilities.
+- Support cloud-native deployments on **AWS**, contributing to secure and scalable system architecture.
 
-- **Python Developer & Data Science Student @ Turing College (May 2023 - December 2024)**: Currently enhancing my expertise in data analytics and machine learning, I am deeply involved in a rigorous Master's program. This experience sharpened my data manipulation skills, statistical analysis, and application of machine learning techniques to practical challenges. Turing College has provided me with a platform to learn theoretical aspects and apply these concepts in real-world scenarios, preparing me to drive data-driven decision-making processes.
+### **Python Developer @ Orion Innovation** _(Feb 2021 – Feb 2024)_
+- Designed and implemented automated UI and API testing frameworks in Python, increasing test coverage by 90%.
+- Reduced testing cycles and release timelines through workflow automation and process optimization.
+- Improved platform reliability and user satisfaction by identifying and resolving critical pre-release issues.
+- Collaborated with cross-functional teams to deliver stable, high-quality software solutions.
 
-## 🛠 Skills
+---
 
-- **Languages**: Python, SQL
-- **Frameworks**: FastAPI, Selenium
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, StatsModels, CV2
-- **Tools**: Docker, VSCode, Jupyter Notebook
-- **Others**: GIT, HTML5, CSS, Bootstrap, JavaScript (Base level)
+## 🛠 Tech Stack
 
-## 📚 Education
+- **Languages:** Python, SQL  
+- **AI & ML:** LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Systems, Scikit-learn  
+- **Backend:** FastAPI, REST APIs  
+- **Cloud:** AWS  
+- **Data & Analytics:** Pandas, NumPy  
+- **Visualization & BI:** Plotly, Tableau / Looker Studio  
+- **Tools:** Git, Docker, Jupyter Notebook, VS Code  
 
-### **Data Science Certification**, Turing College _(2024)_
-Engaging in a comprehensive study of data science, honing my abilities in data manipulation, statistical analysis, and predictive modeling. The program emphasizes not just theoretical knowledge but also hands-on experience with real-world datasets, preparing me to solve complex business challenges.  
-- Engaging in a comprehensive study of data science, honing skills in data manipulation, statistical analysis, and predictive modeling.  
-- Completed 800+ hours of hands-on training, applying machine learning and data analytics to real-world problems.  
-- Delivered capstone projects such as **Credit Risk Prediction** and **Train Accelerometry Analysis**, utilizing predictive modeling, data wrangling, and advanced machine learning techniques.  
+---
 
-### **Web Development Certification**, IT Academy _(2020)_
-Completed an intensive program covering core software development and data science concepts.  
-- Immersed in a rigorous web development curriculum, focusing strongly on **backend technologies**.  
-- Developed expertise in **Python, PostgreSQL, RESTful APIs**, and scalable backend architectures.  
-- Built full-stack web applications, emphasizing **database optimization, server-side logic, and API integration**.  
-- Gained practical experience in **software development workflows**, version control, and testing.  
+## 🎓 Education
 
-### **Bachelor of Science in Networks & Info Communications**, Belarusian State University of Informatics and Radioelectronics _(2018)_
-Developed a strong foundation in software engineering, algorithms, and data structures, which later evolved into a focus on data science.  
-- Studied **network technologies, system optimization, and algorithm design**, laying the groundwork for a career in data and software engineering.  
-- Gained hands-on experience with **network infrastructures, data security, and distributed systems**.  
-- Developed a strong analytical mindset, applying engineering principles to **problem-solving and technical decision-making**.  
+### **Data Science Certification — Turing College** _(2024)_
+- 800+ hours of hands-on training in machine learning and data analytics.
+- Built applied ML projects including **Credit Risk Prediction** and **Train Accelerometry Analysis**.
+- Focused on real-world problem solving with data-driven approaches.
 
+### **Web Development Certification — IT Academy** _(2020)_
+- Intensive training in **Python backend development**, REST APIs, and PostgreSQL.
+- Built scalable web applications with a strong focus on server-side logic and data handling.
 
-## 📫 How to reach me:
+### **Bachelor of Science — Networks & Information Communications** _(2018)_
+- Strong foundation in algorithms, system optimization, and engineering problem-solving.
 
-Check out my [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/) for professional engagements and my [GitHub](https://github.com/MarchenkoRuslan) for projects and code snippets.
+---
 
-I'm always open to discussing new projects or opportunities in Python development and data science. Please feel free to contact me!
+## 📫 How to Reach Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
+- 💻 [GitHub](https://github.com/MarchenkoRuslan)  
 
-## 🏆 Showcase
+I'm always open to discussing **AI engineering**, **LLM systems**, and **practical enterprise AI solutions**.
 
-- 💻 Codewars: [@MarchenkoRuslan](https://www.codewars.com/users/Marchenko%20Ruslan)
-- 💻 Hackerrank: [@MarchenkoRuslan](https://www.hackerrank.com/profile/wolkoff07)
+---
 
+## 🏆 Coding Profiles
+
+- 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
+- 🏅 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
