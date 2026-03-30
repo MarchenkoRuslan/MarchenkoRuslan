@@ -65,7 +65,6 @@ My background combines **Python backend engineering**, **applied machine learnin
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
-- 💻 [GitHub](https://github.com/MarchenkoRuslan)  
 
 I'm always open to discussing **AI engineering**, **LLM systems**, and **practical enterprise AI solutions**.
 
@@ -73,5 +72,6 @@ I'm always open to discussing **AI engineering**, **LLM systems**, and **practic
 
 ## 🏆 Coding Profiles
 
+- 🏅 [Kaggle](https://www.kaggle.com/moveton)
 - 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
 - 🏅 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
