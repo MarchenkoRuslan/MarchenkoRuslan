@@ -1,5 +1,4 @@
 # Hi there, I'm Ruslan 👋  
-![Coding animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NDA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
 
 I'm an **AI Engineer at Nasdaq**, building enterprise AI solutions with a strong focus on **agentic systems, LLM-powered platforms, and cloud-native architectures**.  
 My background combines **Python backend engineering**, **applied machine learning**, and **production-grade AI systems** designed for real-world enterprise use.
@@ -38,9 +37,9 @@ My background combines **Python backend engineering**, **applied machine learnin
 
 - **Languages:** Python, SQL  
 - **AI & ML:** LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Systems, Scikit-learn  
-- **Backend:** FastAPI, REST APIs  
-- **Cloud:** AWS  
-- **Data & Analytics:** Pandas, NumPy  
+- **Backend:** FastAPI, Flask, Django, REST APIs  
+- **Cloud:** AWS, GCP, Railway  
+- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Visualization & BI:** Plotly, Tableau / Looker Studio  
 - **Tools:** Git, Docker, Jupyter Notebook, VS Code  
 
@@ -75,3 +74,5 @@ I'm always open to discussing **AI engineering**, **LLM systems**, and **practic
 - 🏅 [Kaggle](https://www.kaggle.com/moveton)
 - 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
 - 🗿 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
+
+[Coding animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NDA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
