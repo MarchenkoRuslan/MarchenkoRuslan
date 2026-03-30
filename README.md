@@ -74,4 +74,4 @@ I'm always open to discussing **AI engineering**, **LLM systems**, and **practic
 
 - 🏅 [Kaggle](https://www.kaggle.com/moveton)
 - 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
-- 🏅 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
+- 🗿 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
