@@ -74,5 +74,3 @@ I'm always open to discussing **AI engineering**, **LLM systems**, and **practic
 - 🏅 [Kaggle](https://www.kaggle.com/moveton)
 - 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
 - 🗿 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
-
-[Coding animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuaWZrZnBzMnV6c3RpOWwzZDA0b3liMnh1cnVtZDMwZ3V0NDA1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif)
