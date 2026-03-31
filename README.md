@@ -63,7 +63,8 @@ My background combines **Python backend engineering**, **applied machine learnin
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)
 
 I'm always open to discussing **AI engineering**, **LLM systems**, and **practical enterprise AI solutions**.
 
