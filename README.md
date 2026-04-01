@@ -17,7 +17,7 @@ My background combines **Python backend engineering**, **applied machine learnin
 
 ## 💼 Experience
 
-### **AI Engineer @ Nasdaq** _(Mar 2025 – Present)_
+### **AI Engineer @ Nasdaq** _(Mar 2025 – Apr 2026)_
 - Design and deliver components of an **enterprise-grade agentic AI platform** used by internal teams.
 - Build **LLM-powered backend services** using Python and FastAPI to support compliant, production-ready AI agents.
 - Implement **Retrieval-Augmented Generation (RAG)** pipelines to ground AI responses in internal data sources and improve trust and adoption.
