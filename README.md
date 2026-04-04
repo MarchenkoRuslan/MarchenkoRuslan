@@ -74,7 +74,7 @@ Systems that people rely on daily.
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)  
+- ☘️ [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)  
 
 Open to collaboration on AI projects, consulting, and system design.
 
