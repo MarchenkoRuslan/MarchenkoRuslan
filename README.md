@@ -6,12 +6,17 @@ Turning AI ideas into real, scalable products — from agents and RAG systems to
 
 ---
 
+## ⚡ Selected Work
+
+🚧 Coming soon: AI agents, RAG systems, and real-world integrations
+
 ## 🚀 What I Do
 
 I help companies and teams integrate AI into real workflows and products.
 
 **Focus areas:**
-- 🤖 AI Agents for workflow automation  
+
+- 🤖 AI Agents for workflow automation
 - 🧠 Retrieval-Augmented Generation (RAG) systems  
 - 🔗 AI integrations (APIs, GitLab, OneDrive)  
 - ⚙️ Backend AI systems (Python, FastAPI)  
@@ -24,7 +29,8 @@ I help companies and teams integrate AI into real workflows and products.
 Most AI projects fail after the demo.
 
 I focus on:
-- building production-ready systems  
+
+- building production-ready systems
 - grounding AI in real data (no hallucination-heavy outputs)  
 - integrating AI into actual business workflows  
 
@@ -84,4 +90,4 @@ Open to collaboration on AI projects, consulting, and system design.
 
 - agentic systems  
 - MCP & tool-based architectures  
-- real-world AI adoption in companies  
+- real-world AI adoption in companies
