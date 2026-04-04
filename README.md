@@ -1,77 +1,87 @@
-# Hi there, I'm Ruslan 👋  
+# Hi, I'm Ruslan 👋  
 
-I'm an **AI Engineer at Nasdaq**, building enterprise AI solutions with a strong focus on **agentic systems, LLM-powered platforms, and cloud-native architectures**.  
-My background combines **Python backend engineering**, **applied machine learning**, and **production-grade AI systems** designed for real-world enterprise use.
+I build AI systems that actually work in production.
 
----
-
-## 🚀 About Me
-
-- 🤖 **AI Engineer @ Nasdaq**, working on an enterprise agentic AI platform that improves internal knowledge access and operational efficiency.
-- 🧠 Hands-on experience with **LLMs, Retrieval-Augmented Generation (RAG)**, and enterprise integrations such as **Microsoft OneDrive** and **GitLab**.
-- 🐍 Strong background in **Python backend development**, building scalable services with **FastAPI**.
-- ☁️ Experienced in deploying and operating **production-ready AI systems on AWS**, with a focus on reliability, scalability, and compliance.
-- 📚 Continuous learner with a strong interest in **applied AI, agentic systems, and practical LLM solutions**.
+Turning AI ideas into real, scalable products — from agents and RAG systems to full backend architectures.
 
 ---
 
-## 💼 Experience
+## 🚀 What I Do
 
-### **AI Engineer @ Nasdaq** _(Mar 2025 – Apr 2026)_
-- Design and deliver components of an **enterprise-grade agentic AI platform** used by internal teams.
-- Build **LLM-powered backend services** using Python and FastAPI to support compliant, production-ready AI agents.
-- Implement **Retrieval-Augmented Generation (RAG)** pipelines to ground AI responses in internal data sources and improve trust and adoption.
-- Develop AI agents and enterprise connectors for **Microsoft OneDrive** and **GitLab**, automating document retrieval and contextual task execution.
-- Collaborate within a **30-person cross-functional team** to translate business needs into deployable AI capabilities.
-- Support cloud-native deployments on **AWS**, contributing to secure and scalable system architecture.
+I help companies and teams integrate AI into real workflows and products.
 
-### **Python Developer @ Orion Innovation** _(Feb 2021 – Feb 2024)_
-- Designed and implemented automated UI and API testing frameworks in Python, increasing test coverage by 90%.
-- Reduced testing cycles and release timelines through workflow automation and process optimization.
-- Improved platform reliability and user satisfaction by identifying and resolving critical pre-release issues.
-- Collaborated with cross-functional teams to deliver stable, high-quality software solutions.
+**Focus areas:**
+- 🤖 AI Agents for workflow automation  
+- 🧠 Retrieval-Augmented Generation (RAG) systems  
+- 🔗 AI integrations (APIs, GitLab, OneDrive)  
+- ⚙️ Backend AI systems (Python, FastAPI)  
+- ☁️ Cloud-native AI (AWS)  
+
+---
+
+## 💡 What Makes My Work Different
+
+Most AI projects fail after the demo.
+
+I focus on:
+- building production-ready systems  
+- grounding AI in real data (no hallucination-heavy outputs)  
+- integrating AI into actual business workflows  
+
+Not prototypes. Not experiments.  
+Systems that people rely on daily.
+
+---
+
+## 🧩 Selected Experience
+
+- Built components of an enterprise AI platform in a large financial organization  
+- Developed AI agents integrated with real tools (GitLab, OneDrive)  
+- Implemented RAG pipelines to improve accuracy and trust  
+- Designed scalable backend services for AI systems  
+
+---
+
+## 📦 What I Can Help You Build
+
+- Internal AI assistants  
+- Knowledge search systems (RAG)  
+- AI-powered SaaS features  
+- Workflow automation with agents  
+- Production-ready AI backends  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, SQL  
-- **AI & ML:** LLMs, Retrieval-Augmented Generation (RAG), Agentic AI Systems, Scikit-learn  
-- **Backend:** FastAPI, Flask, Django, REST APIs  
-- **Cloud:** AWS, GCP, Railway  
-- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Visualization & BI:** Plotly, Tableau / Looker Studio  
-- **Tools:** Git, Docker, Jupyter Notebook, VS Code  
-
----
-
-## 🎓 Education
-
-### **Data Science Certification — Turing College** _(2024)_
-- 800+ hours of hands-on training in machine learning and data analytics.
-- Built applied ML projects including **Credit Risk Prediction** and **Train Accelerometry Analysis**.
-- Focused on real-world problem solving with data-driven approaches.
-
-### **Web Development Certification — IT Academy** _(2020)_
-- Intensive training in **Python backend development**, REST APIs, and PostgreSQL.
-- Built scalable web applications with a strong focus on server-side logic and data handling.
-
-### **Bachelor of Science — Networks & Information Communications** _(2018)_
-- Strong foundation in algorithms, system optimization, and engineering problem-solving.
-
----
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)
-
-I'm always open to discussing **AI engineering**, **LLM systems**, and **practical enterprise AI solutions**.
+**Languages:** Python, SQL  
+**AI/ML:** LLMs, RAG, Agentic Systems, Scikit-learn  
+**Backend:** FastAPI, Flask, Django, REST APIs  
+**Cloud:** AWS, GCP  
+**Data:** Pandas, NumPy  
+**Tools:** Docker, Git, Jupyter  
 
 ---
 
 ## 🏆 Coding Profiles
 
-- 🏅 [Kaggle](https://www.kaggle.com/moveton)
+- 🏅 [Kaggle](https://www.kaggle.com/moveton)  
 - 🥋 [Codewars](https://www.codewars.com/users/Marchenko%20Ruslan)  
-- 🗿 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)
+- 🗿 [HackerRank](https://www.hackerrank.com/profile/wolkoff07)  
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)  
+
+Open to collaboration on AI projects, consulting, and system design.
+
+---
+
+## ⚡ Current Focus
+
+- agentic systems  
+- MCP & tool-based architectures  
+- real-world AI adoption in companies  
