@@ -1,68 +1,71 @@
 # Hi, I'm Ruslan 👋  
 
-I build AI systems that actually work in production.
+I build **AI-powered systems and backend solutions** that actually work in production.  
+I turn AI ideas into real, scalable products — from agents and RAG systems to full backend architectures.  
 
-Turning AI ideas into real, scalable products — from agents and RAG systems to full backend architectures.
+🚀 **I make AI useful, reliable, and integrated into real workflows.**  
 
 ---
 
-## ⚡ Selected Work
+## ⚡ Featured Projects
 
-🚧 Coming soon: AI agents, RAG systems, and real-world integrations
+🔹 [RAG & Knowledge Systems](https://github.com/MarchenkoRuslan/rag) — Retrieval-Augmented pipelines for internal knowledge  
+🔹 [AI Agents & Automation](https://github.com/MarchenkoRuslan/analbot) — AI workflows integrated with real tools  
+🔹 [Backend Tools](https://github.com/MarchenkoRuslan/polymarket) — Python backend for SaaS & data-driven apps  
 
-## 🚀 What I Do
+More projects coming soon…
 
-I help companies and teams integrate AI into real workflows and products.
+---
 
-**Focus areas:**
+## 🛠 What I Do
 
-- 🤖 AI Agents for workflow automation
+I help companies and teams **turn AI from demos into real, usable systems**.  
+
+**Key focus areas:**  
+
+- 🤖 AI agents for workflow automation  
 - 🧠 Retrieval-Augmented Generation (RAG) systems  
-- 🔗 AI integrations (APIs, GitLab, OneDrive)  
-- ⚙️ Backend AI systems (Python, FastAPI)  
-- ☁️ Cloud-native AI (AWS)  
+- 🔗 AI integrations with SaaS & enterprise tools (APIs, GitLab, OneDrive)  
+- ⚙️ Backend systems for AI applications (Python, FastAPI, Django)  
+- ☁️ Cloud-native AI (AWS, GCP)  
 
 ---
 
-## 💡 What Makes My Work Different
+## 💡 Why Work With Me
 
-Most AI projects fail after the demo.
+Most AI projects fail after the demo. I focus on:  
 
-I focus on:
+- Building **production-ready systems**  
+- Grounding AI in **real internal data** (no hallucinations)  
+- Designing AI solutions **that scale and integrate with workflows**  
 
-- building production-ready systems
-- grounding AI in real data (no hallucination-heavy outputs)  
-- integrating AI into actual business workflows  
-
-Not prototypes. Not experiments.  
-Systems that people rely on daily.
+Systems you can rely on daily. Not prototypes, not experiments.
 
 ---
 
-## 🧩 Selected Experience
+## 🧩 Experience Highlights
 
-- Built components of an enterprise AI platform in a large financial organization  
-- Developed AI agents integrated with real tools (GitLab, OneDrive)  
-- Implemented RAG pipelines to improve accuracy and trust  
+- Built enterprise AI components for a **large financial organization**  
+- Developed AI agents integrated with GitLab, OneDrive, and internal tools  
+- Implemented RAG pipelines to **improve reliability and trust**  
 - Designed scalable backend services for AI systems  
 
 ---
 
-## 📦 What I Can Help You Build
+## 📦 Services I Offer
 
-- Internal AI assistants  
-- Knowledge search systems (RAG)  
-- AI-powered SaaS features  
-- Workflow automation with agents  
-- Production-ready AI backends  
+- Backend development & API design  
+- AI-powered workflow automation  
+- RAG systems for internal knowledge  
+- AI integration into SaaS & enterprise tools  
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:** Python, SQL  
-**AI/ML:** LLMs, RAG, Agentic Systems, Scikit-learn  
 **Backend:** FastAPI, Flask, Django, REST APIs  
+**AI/ML:** LLMs, RAG, Agentic Systems, Scikit-learn  
 **Cloud:** AWS, GCP  
 **Data:** Pandas, NumPy  
 **Tools:** Docker, Git, Jupyter  
@@ -77,17 +80,17 @@ Systems that people rely on daily.
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
 - ☘️ [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)  
 
-Open to collaboration on AI projects, consulting, and system design.
+Open to **collaboration on AI projects, consulting, and system design**.
 
 ---
 
 ## ⚡ Current Focus
 
-- agentic systems  
+- Agentic systems  
 - MCP & tool-based architectures  
-- real-world AI adoption in companies
+- Real-world AI adoption in companies
