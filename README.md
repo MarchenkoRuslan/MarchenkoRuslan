@@ -83,7 +83,7 @@ Systems you can rely on daily. Not prototypes, not experiments.
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslanmarchenko/)  
-- ☘️ [Upwork](https://www.upwork.com/freelancers/~01b1a7c3b28e9db0d9)  
+- ☘️ [Freelancer](https://www.freelancer.com/u/gyrodot)  
 
 Open to **collaboration on AI projects, consulting, and system design**.
 
