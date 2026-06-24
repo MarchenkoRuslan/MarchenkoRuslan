@@ -10,7 +10,6 @@ I turn AI ideas into real, scalable products — from agents and RAG systems to 
 ## ⚡ Featured Projects
 
 🔹 [RAG & Knowledge Systems](https://github.com/MarchenkoRuslan/rag) — Retrieval-Augmented pipelines for internal knowledge  
-🔹 [AI Agents & Automation](https://github.com/MarchenkoRuslan/analbot) — AI workflows integrated with real tools  
 🔹 [Backend Tools](https://github.com/MarchenkoRuslan/polymarket) — Python backend for SaaS & data-driven apps  
 
 More projects coming soon…
